@@ -1,5 +1,3 @@
-//
-//  fraction_19az12.cpp
 //  The Fraction Class
 //
 //  Created by Tony Zheng on 2021-10-18.
